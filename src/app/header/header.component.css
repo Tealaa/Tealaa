@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    height: 20em;
+    background: black;
+    /* background: url(/assets/images/close-up-photo-fish.jpg); */
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: aqua;
+}
+.tealaa-logo {
+    max-width: 10em;
+    display: flex;
+    margin: 0 auto;
+}

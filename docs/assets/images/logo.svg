@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="lightblue" />
+  
+  <!-- Fish -->
+  <path d="M60,100 Q80,70 100,85 Q120,100 100,115 Q80,130 60,100 Z" fill="orange" />
+  <circle cx="80" cy="95" r="5" fill="white" />
+  
+  <!-- Fish Tail -->
+  <path d="M60,100 L50,80 L50,120 Z" fill="orange" />
+  
+  <!-- Plants -->
+  <path d="M30,140 C40,110 60,120 55,150 C50,140 40,150 30,140 Z" fill="green" />
+  <path d="M40,135 C50,105 70,115 65,145 C60,135 50,145 40,135 Z" fill="green" />
+  <path d="M75,140 C85,110 105,120 100,150 C95,140 85,150 75,140 Z" fill="green" />
+  
+  <!-- Additional Decoration: Small bubbles -->
+  <circle cx="90" cy="70" r="3" fill="white" opacity="0.7" />
+  <circle cx="110" cy="55" r="2" fill="white" opacity="0.7" />
+  <circle cx="100" cy="45" r="1.5" fill="white" opacity="0.7" />
+  
+</svg>
